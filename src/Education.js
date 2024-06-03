@@ -35,91 +35,91 @@ export default function Education(){
      data-aos-easing="ease-out-cubic"
      data-aos-duration="4000"
      >
-                <img  src="./certificates/html.jpg" className="imgs"></img>
+                <img alt=""  src="./certificates/html.jpg" className="imgs"></img>
             </div>
             <div 
             data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="4000"
      >
-            <img  src="./certificates/css.jpg" className="imgs"></img>
+            <img alt=""  src="./certificates/css.jpg" className="imgs"></img>
             </div>
             <div 
             data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="4000"
      >
-            <img  src="./certificates/javascript.png" className="imgs"></img>
+            <img  alt="" src="./certificates/javascript.png" className="imgs"></img>
             </div>
             <div 
             data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="4000"
      >
-            <img  src="./certificates/php.jpg" className="imgs"></img>
+            <img alt=""  src="./certificates/php.jpg" className="imgs"></img>
             </div>
             <div 
             data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="4000"
      >
-            <img  src="./certificates/Web Development.jpg" className="imgs"></img>
+            <img  alt="" src="./certificates/Web Development.jpg" className="imgs"></img>
             </div>
             <div 
             data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="4000"
      >
-            <img  src="./certificates/spl_2.jpg" className="imgs"></img>
+            <img  alt="" src="./certificates/spl_2.jpg" className="imgs"></img>
             </div>
             <div 
             data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="4000"
      >
-            <img  src="./certificates/sql_1.jpg" className="imgs"></img>
+            <img  alt="" src="./certificates/sql_1.jpg" className="imgs"></img>
             </div>
             <div 
             data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="4000"
      >
-            <img  src="./certificates/scrum.jpg" className="imgs"></img>
+            <img  alt="" src="./certificates/scrum.jpg" className="imgs"></img>
             </div>
             <div 
             data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="4000"
      >
-            <img  src="./certificates/c.jpg" className="imgs"></img>
+            <img alt=""  src="./certificates/c.jpg" className="imgs"></img>
             </div>
             <div 
             data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="4000"
      >
-            <img  src="./certificates/c++.png" className="imgs"></img>
+            <img  alt="" src="./certificates/c++.png" className="imgs"></img>
             </div>
             <div 
             data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="4000"
      >
-            <img  src="./certificates/azure.jpg" className="imgs"></img>
+            <img  alt="" src="./certificates/azure.jpg" className="imgs"></img>
             </div>
             <div 
             data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="4000"
      >
-            <img  src="./certificates/nodejs.jpg" className="imgs"></img>
+            <img  alt="" src="./certificates/nodejs.jpg" className="imgs"></img>
             </div>
             <div 
             data-aos="flip-left"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="4000"
      >
-            <img  src="./certificates/internship.jpg" className="imgs"></img>
+            <img  alt="" src="./certificates/internship.jpg" className="imgs"></img>
             </div>
            
         </div>

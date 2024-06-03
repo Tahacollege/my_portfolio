@@ -36,23 +36,23 @@ import 'animate.css';
             <div className="details">
             <h1 className="heading">ContactME</h1>
             <br />
-            <img src="./gmail.webp" className="logo"></img>
+            <img alt="" src="./gmail.webp" className="logo"></img>
             <h3 className="data"><b>tcollegewala30@gamil.com</b></h3>
             <br />
-            <img src="./phone.png" className="logo"></img>
+            <img alt="" src="./phone.png" className="logo"></img>
             <h3 className="data"><b>+917470495352</b></h3>
             <br />
             <br />
             
             <div className="socials">
                 <div >
-                    <a href="https://www.instagram.com/mr_taha30?r=nametag"><img className="accounts" src="./insta.jpeg"></img></a>
+                    <a href="https://www.instagram.com/mr_taha30?r=nametag"><img alt="" className="accounts" src="./insta.jpeg"></img></a>
                 </div>
                 <div >
-                <a href="https://github.com/Tahacollege"><img className="accounts" src="./github.png"></img></a>
+                <a href="https://github.com/Tahacollege"><img alt="" className="accounts" src="./github.png"></img></a>
                 </div>
                 <div >
-                <a href="https://linkedin.com/in/taha-9669b3250"><img className="accounts" src="./linkdin.png"></img></a>
+                <a href="https://linkedin.com/in/taha-9669b3250"><img alt="" className="accounts" src="./linkdin.png"></img></a>
                 </div>
             </div>
             <br />

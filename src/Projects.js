@@ -21,7 +21,7 @@ export default function Projects(){
                         <h3>Type:Dynamic Website</h3>
                         <h4>Database:Mysql</h4>
                     </div>
-                    <a href="https://iforumspr.000webhostapp.com/"><img src="./projects/forums_1.png" className="forumsimg"></img></a>
+                    <a href="https://iforumspr.000webhostapp.com/"><img alt="" src="./projects/forums_1.png" className="forumsimg"></img></a>
                 </div>
                 <div className="elibrary" data-aos="zoom-in">
                 <div className="content">
@@ -30,7 +30,7 @@ export default function Projects(){
                         <h3>Type:Dynamic Website</h3>
                         <h4>Database:Mysql</h4>
                     </div>
-                <a href="https://unparallel-umbrella.000webhostapp.com/"><img src="./projects/elibrary.png" className="elibraryimg"></img></a>
+                <a href="https://unparallel-umbrella.000webhostapp.com/"><img alt="" src="./projects/elibrary.png" className="elibraryimg"></img></a>
                 </div>
                 <div className="blogers" data-aos="zoom-in">
                     <div className="content">
@@ -39,7 +39,7 @@ export default function Projects(){
                         <h3>Type:Dynamic Website</h3>
                         <h4>Database:Mysql</h4>
                     </div>
-                    <a href="https://blogerscomers.000webhostapp.com//"><img src="./projects/bloggers.png" className="blogersimg"></img></a>
+                    <a href="https://blogerscomers.000webhostapp.com//"><img alt="" src="./projects/bloggers.png" className="blogersimg"></img></a>
                 </div>
                 <div className="project_manager" data-aos="zoom-in">
                     <div className="content">
@@ -48,7 +48,7 @@ export default function Projects(){
                         <h3>Type:Dynamic Website</h3>
                         <h4>Database:Mysql</h4>
                     </div>
-                    <a href="https://prmanagehub.000webhostapp.com/index.php/"><img src="./projects/project_management.png" className="project_managerimg"></img></a>
+                    <a href="https://prmanagehub.000webhostapp.com/index.php/"><img alt="" src="./projects/project_management.png" className="project_managerimg"></img></a>
                 </div>
             </div>
             <hr />
@@ -64,7 +64,7 @@ export default function Projects(){
                         <h3>Type:Static Website</h3>
                         <h4>Database:Mysql</h4>
                     </div>
-                <a href="https://automobles-info.netlify.app/"><img src="./projects/automobiles.png" className="automobilesimg"></img></a>
+                <a href="https://automobles-info.netlify.app/"><img alt="" src="./projects/automobiles.png" className="automobilesimg"></img></a>
                 </div>
                 <div className="overview" data-aos="zoom-in">
                 <div className="content">
@@ -73,7 +73,7 @@ export default function Projects(){
                         <h3>Type:Static Website</h3>
                         <h4>Database:Mysql</h4>
                     </div>
-                <a href="https://theoverview.netlify.app/"><img src="./projects/overview.png" className="overviewimg"></img></a>
+                <a href="https://theoverview.netlify.app/"><img alt="" src="./projects/overview.png" className="overviewimg"></img></a>
                 </div>
                 <div className="tenzies" data-aos="zoom-in">
                 <div className="content">
@@ -82,7 +82,7 @@ export default function Projects(){
                         <h3>Type:Static Website</h3>
                         <h4>Database:Mysql</h4>
                     </div>
-                <a href="https://tenzies-g.netlify.app/"><img src="./projects/tenzies.png" className="tenziesimg"></img></a>
+                <a href="https://tenzies-g.netlify.app/"><img alt="" src="./projects/tenzies.png" className="tenziesimg"></img></a>
                 </div>
             </div>
             <hr />
