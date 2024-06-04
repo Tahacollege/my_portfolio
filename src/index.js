@@ -22,7 +22,7 @@ import 'animate.css';
     
     <div>
     <nav className="navbar">
-            <h1 >PortFolio</h1>
+            <h1 className='portfolio'>PortFolio</h1>
             <div className="navs">
             <a href="#home"><h4 className='h4'>Home</h4></a>
             <a href="#about"><h4 className='h4'>About</h4></a>

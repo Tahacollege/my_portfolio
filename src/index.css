@@ -38,7 +38,7 @@ a{
 .Home{
   width: auto;
   height: 650px;
-  background-image:url("./imlaptop.png");
+  background-image:url("./immobile.png");
   color: rgb(59, 56, 56);
   background-position: center;
   background-size: cover;
@@ -84,12 +84,7 @@ a{
   display: flex;
 }
 
-.mine{
-  width:450px;
-  height: 550px;
-  margin-left: 180px;
-  border-radius: 50px;
-}
+
 .heading{
   display: flex;
   flex-direction: column;
@@ -107,9 +102,6 @@ a{
   margin-left: 25px;
   overflow: hidden;
   background-color: rgba(189, 199, 214, 0.5);
-  
-  
-
 
 }
 /*About css End*/
@@ -415,11 +407,17 @@ a{
     overflow-y: scroll;
   }
   .navs{
-    display: block;
+    display:none;;
     margin-left: -200px;
   }
+  .portfolio{
+    text-align: center;
+  }
   .Home{
-    background-image: url("./mobile.png");
+    background-image: url("./imlaptop.png");
+    
+
+
     
   }
   #line{
@@ -439,25 +437,25 @@ a{
   /*About css*/
   .About{
     display: block;
-    height:930px;
+    height:730px;
     align-items: center;
   }
-  .mine{
-    width:380px;
-    height:400px;
-    margin-left: 0px;
-  }
+ .container{
+  text-align: center;
+ }
   
   .para{
+    margin-top: 20px;
+    margin-left: 0px;
    display: inline;
    height: 100px;
    line-height: 25px;
-    text-align: center;
   }
   /*Education css*/
   .education{
     overflow-x: hidden;
     height: 1510px;
+    padding: 0px;
   }
   .Table{
     width:380px;
@@ -469,9 +467,13 @@ a{
   }
   .imgs{
     width: 200px;
-    
     margin-left: 5px;
   height: 200px;
+  }
+  .imgs:hover{
+    width: 200px;
+    height: 200;
+    box-shadow: 0px 0px 50px black;
   }
   /*Projects css*/
   .projects{
