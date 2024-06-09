@@ -47,7 +47,7 @@ a{
 #line{
   font-size: large;
   display: inline-block;
-  margin-top: 300px;
+  margin-top: 200px;
   margin-left: 70px;
 }
 #line2{
@@ -101,7 +101,8 @@ a{
   letter-spacing: 5px;
   margin-left: 25px;
   overflow: hidden;
-  background-color: rgba(189, 199, 214, 0.5);
+  background-color: rgba(201, 203, 205, 0.5);
+  border-radius: 10px;
 
 }
 /*About css End*/
@@ -113,10 +114,6 @@ a{
   padding: 10px;
   background-image: radial-gradient(grey ,black);
   color: beige;
-  
-  
-  
- 
 }
 .Table{
   text-align: center;
@@ -160,7 +157,6 @@ a{
   width: auto;
   margin-top: 10px;
   height: 900px;
-  background-image: radial-gradient(grey ,black);
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -255,7 +251,6 @@ a{
 .minorp{
   width: auto;
   height: 450px;
-  background-image: radial-gradient(grey ,black);
   display: flex;
   justify-content: center;
 
@@ -318,7 +313,6 @@ a{
 .Contact{
   width: auto;
   height:600px;
-  background-image: radial-gradient(grey ,black);
   align-items: center;
   justify-content: center;
   color: beige;
@@ -359,8 +353,11 @@ a{
   background-image: radial-gradient(grey ,black);
   color: beige;
   cursor: pointer;
+  margin-top: 50px;
+  margin-left: 110px;
 }
 .messages{
+  margin-top: -20px;
   width: 500px;
   height:500px;
   margin-left: 250px;
@@ -453,7 +450,6 @@ a{
   }
   /*Education css*/
   .education{
-    overflow-x: hidden;
     height: 1510px;
     padding: 0px;
   }
@@ -558,9 +554,9 @@ a{
   }
   /*ContactME css */
   .Contact{
-    width: 3
-    80px;
-    height: 1200px;
+    margin-top: 20px;
+    width: 380px;
+    height: 1100px;
     display: flex;
     flex-direction: column;
     align-items: start;
@@ -572,15 +568,28 @@ a{
   }
   .logo{
     position: relative;
+    mix-blend-mode:color-dodge;
+  }
+  .socials{
+    margin-top: 20px;
+  }
+  .cv{
+    width: 100px;
+    margin-left: 140px;
   }
   .accounts{
     width: 80px;
     height: 80px;
   }
   .data{
-    margin-left: 0px;
+    font-size: larger;
+    margin-top: -50px;
+    margin-left: 70px;
   }
   .messages{
+    border-top: 1px solid white;
+    padding-top: 15px;
+    margin-top: -50px;
     margin-left: 0px;
     height: 600px;
     width: 380px;
