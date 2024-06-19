@@ -53,6 +53,15 @@ export default function Projects(){
                         <h4>Database:Mysql</h4>
                     </div>
                 </div>
+                <div className="burhani_bag" >
+                    <a href="https://burhanibag.onrender.com/"><img alt="" src="./projects/burhani_bag.png" className="burhani_bagimg"></img></a>
+                    <div className="content">
+                        <h1>Name:Burhani Bag</h1>
+                        <h2>Languages: HTML,CSS,JAVASCRIPT,Nodejs, Expressjs</h2>
+                        <h3>Type:Dynamic Website</h3>
+                        <h4>Database:MongoDB</h4>
+                    </div>
+                </div>
             </div>
             <hr />
             <br />

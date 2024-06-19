@@ -156,7 +156,7 @@ a{
 .majorp{
   width: auto;
   margin-top: 10px;
-  height: 900px;
+  height: 1520px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -192,6 +192,7 @@ a{
   transition: opactiy 0.8s ease-in-out;
   transform: translate(1%,50%);
 }
+
 .content_minor{
   position: absolute;
   margin-top: -90px;
@@ -263,7 +264,23 @@ a{
   opacity: 1;
   border-radius: 30px;
 }
-
+.burhani_bag{
+  flex-wrap: wrap;
+  padding: 5px;
+  width: 500px;
+  position: relative;
+  height: 400px;
+  border-radius: 30px;
+}
+.burhani_bagimg{
+  border: 5px solid black;
+  width: 300px;
+  margin-left: 100px;
+  position: relative;
+  height: 200px;
+  opacity: 1;
+  border-radius: 30px;
+}
 
 .minorp{
   width: auto;
@@ -505,7 +522,7 @@ a{
   .majorp{
     flex-direction: column;
     justify-content: start;
-    height: 1420px;
+    height: 2420px;
   }
   .forums{
     width:380px;
@@ -549,6 +566,17 @@ a{
     margin-top: 10px;
   }
   .project_managerimg{
+    margin-left: 25px;
+    width:300px;
+    height:200px;
+  }
+  .burhani_bag{
+    width: 380px;
+    height: 500px;
+    margin-left: 0px;
+    margin-top: 10px;
+  }
+  .burhani_bagimg{
     margin-left: 25px;
     width:300px;
     height:200px;
