@@ -49,7 +49,7 @@ export default function Projects(){
                 
                 <div className="burhani_bag" data-aos="zoom-in" data-aos-easing="ease-out-cubic"
      data-aos-duration="4000">
-                    <a href="https://burhanibag.onrender.com/"><img alt="" src="./projects/burhani_bag.png" className="burhani_bagimg"></img></a>
+                    <a href="https://burhanibag-production.up.railway.app/"><img alt="" src="./projects/burhani_bag.png" className="burhani_bagimg"></img></a>
                     <div className="content">
                         <h1>Name:Burhani Bag</h1>
                         <h2>Languages: HTML, CSS, JAVASCRIPT, Nodejs, Expressjs</h2>

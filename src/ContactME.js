@@ -56,7 +56,7 @@ import 'animate.css';
                 </div>
             </div>
             <br />
-            <a href="https://drive.google.com/file/d/1YbIL5fjvps33whSto5hIFiiVud1gtcIv/view" downlaod>
+            <a href="https://drive.google.com/file/d/1zjcnr4ipUlbA1G2tqR94neeM6QGr2XUC/view?usp=drive_link" downlaod>
             <button className="cv"><h1 >My CV</h1></button>
             </a>
             </div>
