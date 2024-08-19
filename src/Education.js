@@ -119,7 +119,22 @@ export default function Education(){
      data-aos-easing="ease-out-cubic"
      data-aos-duration="4000"
      >
+                <img alt=""  src="./certificates/tailwind.jpg" className="imgs"></img>
+            </div>
+            <div 
+            data-aos="flip-left"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="4000"
+     >
             <img  alt="" src="./certificates/internship.jpg" className="imgs"></img>
+            </div>
+            
+            <div 
+            data-aos="flip-left"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="4000"
+     >
+                <img alt=""  src="./certificates/codsoft.jpg" className="imgs"></img>
             </div>
            
         </div>

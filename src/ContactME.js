@@ -37,10 +37,10 @@ import 'animate.css';
             <h1 className="heading">ContactME</h1>
             <br />
             <img alt="" src="./gmail.webp" className="logo"></img>
-            <h3 className="data"><b>tcollegewala30@gamil.com</b></h3>
+            <h3 className="data"><b>tcollegewala30@gmail.com</b></h3>
             <br />
             <img alt="" src="./phone.png" className="logo"></img>
-            <h3 className="data"><b>+917470495352</b></h3>
+            <h3 className="data"><b>+91 7470495352</b></h3>
             <br />
             <br />
             
