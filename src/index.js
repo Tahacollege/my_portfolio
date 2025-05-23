@@ -7,6 +7,7 @@ import Home from './Home';
 import About from './About';
 import Education from './Education';
 import Projects from './Projects';
+import SkillsGroup from './SkillsGroup';
 import 'animate.css';
 //import Contact from './ContactME';
 // If you want to start measuring performance in your app, pass a function
@@ -26,6 +27,7 @@ import 'animate.css';
             <div className="navs">
             <a href="#home"><h4 className='h4'>Home</h4></a>
             <a href="#about"><h4 className='h4'>About</h4></a>
+            <a href="#skill"><h4 className='h4'>Skills</h4></a>
             <a href="#edu"><h4 className='h4'>Education</h4></a>
             <a href="#projects"><h4 className='h4'>Projects</h4></a>
             <a href="#contact"><h4 className='h4'>ContactME</h4></a>
@@ -35,6 +37,7 @@ import 'animate.css';
     <Home />
     <hr />
     <About />
+    <SkillsGroup />
     <Education />
     <hr />
     <Projects />
